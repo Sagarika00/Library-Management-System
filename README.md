@@ -59,7 +59,7 @@ Create the tables as mentioned in the project and then connect the database with
 
 To Run it in Browser, run it with localhost with the http port no ,(which is usually 8080) which is mentioned in your Eclipse IDE.
 
-Screenshots
+## Screenshots
 
 ![1](https://github.com/Sagarika00/Library-Management-System/blob/master/images/Screenshot%20from%202020-05-21%2003-18-35.png)
 
@@ -71,12 +71,11 @@ Screenshots
 
 ![5](https://github.com/Sagarika00/Library-Management-System/blob/master/images/Screenshot%20from%202020-05-21%2003-19-17.png)
 
-![6](https://github.com/Sagarika00/Library-Management-System/blob/master/images/Screenshot%20from%202020-05-21%2003-19-24.png
+![6](https://github.com/Sagarika00/Library-Management-System/blob/master/images/Screenshot%20from%202020-05-21%2003-19-24.png)
 
 ![7](https://github.com/Sagarika00/Library-Management-System/blob/master/images/Screenshot%20from%202020-05-21%2003-19-27.png)
 
 ![8](https://github.com/Sagarika00/Library-Management-System/blob/master/images/Screenshot%20from%202020-05-21%2003-19-35.png)
-
 
 ![10](https://github.com/Sagarika00/Library-Management-System/blob/master/images/Screenshot%20from%202020-05-21%2003-20-04.png)
 
